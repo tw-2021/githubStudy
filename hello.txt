@@ -1,4 +1,9 @@
 hello world!
 hello my dear friend!
 today is a good day!
+<<<<<<< HEAD
 添加暂存区！
+=======
+分支测试！
+
+>>>>>>> hot-fix
